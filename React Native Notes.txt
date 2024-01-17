@@ -1,0 +1,12 @@
+Set Up using ExpoCLi  - React Native
+
+1 - open your vs code terminal entre this command - npm install -g expo-cli
+2 - After that right - expo init [your_project_name]
+3 - npm install
+4 - npm start
+
+
+WebSocket used for real time data transfer 
+live 
+
+socket.io is a Js library for real time web applications. Provide functions to develop real time chat application
