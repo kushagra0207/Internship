@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 154,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone2",
+        "price" : 19854,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "samsung",
+        "price" : 1354,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "infinix",
+        "price" : 15554,
+        "featured" : true,
+        "company" : "infinix"
+    },
+    {
+        "name" : "Kushagra G10",
+        "price" : 15894,
+        "featured" : true,
+        "company" : "vivo"
+    }
+]
